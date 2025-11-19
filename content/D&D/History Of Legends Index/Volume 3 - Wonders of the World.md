@@ -1,0 +1,1 @@
+locations with energy and importance

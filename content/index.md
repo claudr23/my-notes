@@ -1,6 +1,12 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Ilugos
+tags:
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+overview at the top
+
+links to maps, character pages
+
+Log of recent sessions with most recent at the top
+
+testing changes to see if they sync

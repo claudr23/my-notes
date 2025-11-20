@@ -2,7 +2,7 @@
 title: <% tp.file.title %>
 cssclasses:
 ---
-<% tp.date.now("MM-DD-YYYY") %>
+<% tp.date.now("MMM DD, YYYY") %>
 
 # Previous Session Recap
 

@@ -1,8 +1,8 @@
 ---
-title: Untitled
+title: Session 15
 cssclasses:
 ---
-11-20-2025
+Nov 20, 2025
 
 # Previous Session Recap
 

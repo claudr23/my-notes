@@ -1,8 +1,8 @@
 ---
-title: <% tp.file.title %>
+title: Untitled
 cssclasses:
 ---
-<% tp.date.now("MM-DD-YYYY") %>
+11-20-2025
 
 # Previous Session Recap
 

@@ -1,1 +1,2 @@
-tavern we drank at in [[content/session notes/session 9|Session 9]]
+tavern we drank at in [[Session 9]]
+

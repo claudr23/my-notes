@@ -28,7 +28,9 @@ Nov 20, 2025
 
 > [!example] + NPCs This Session
 > - joe
-> - bob
+> - [[content/ilugos/hollisen/crestin/npcs/bob|Bob]]
+> - 
+> - 
 
 
 ## Recap

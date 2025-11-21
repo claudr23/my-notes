@@ -1,5 +1,6 @@
 # Set-up Tasks
 1. figure out how to get the recaps to auto populate in the new session notes
+	1. user script in templater with java
 2. How to use Bases
 	1. use for index page 
 	2. can I use to insert photos/links for NPCs and Locations?

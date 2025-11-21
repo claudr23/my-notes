@@ -1,9 +1,8 @@
 ---
-title: <% tp.file.title %>
-date: <% tp.date.now("MMM DD, YYYY") %>
-aliases:
+title: Session 000
+date: Sept 15, 2024
 ---
-
+Nov 21, 2025
 
 # Previous Session Recap
 
@@ -33,3 +32,6 @@ aliases:
 
 
 ## Recap
+Background on the [[About the World|World]]
+
+Established PC relationships

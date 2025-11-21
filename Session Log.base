@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.folder.contains("session")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - date

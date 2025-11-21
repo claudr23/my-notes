@@ -1,6 +1,6 @@
 ---
-title: Session 15
-cssclasses:
+title: Session 015
+date:
 ---
 Nov 20, 2025
 
@@ -45,7 +45,7 @@ insert an encounter template with an initiative tracker? let me know your though
 
 click on Bob's name below to follow some links I made
 
-> [!example] + NPCs This Session
+> [!example]+ NPCs This Session
 > - joe
 > - [[bob]]
 

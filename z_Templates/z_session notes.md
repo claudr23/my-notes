@@ -26,7 +26,7 @@ cssclasses:
 
 
 
-> [!example] + NPCs This Session
+> [!example]+ NPCs This Session
 > - joe
 > - bob
 

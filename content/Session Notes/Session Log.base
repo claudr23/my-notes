@@ -7,3 +7,6 @@ views:
     order:
       - file.name
       - date
+    sort:
+      - property: date
+        direction: ASC

@@ -1,5 +1,5 @@
 ---
-title: Welcome to the World
+tifiletle: Welcome to the World
 date: <% tp.date.now("MMM DD, YYYY") %>
 ---
 
@@ -10,4 +10,14 @@ links to maps, character pages
 Log of recent sessions with most recent at the top
 
 
-![[Session Log.base]]
+| Session         | Date Played | Summary |
+| --------------- | ----------- | ------- |
+| [[Session 000]] |             |         |
+| [[Session 0.5]] |             |         |
+| [[Session 001]] |             |         |
+| [[Session 002]] |             |         |
+| [[Session 003]] |             |         |
+| [[Session 004]] |             |         |
+| [[Session 005]] |             |         |
+| [[Session 006]] |             |         |
+|                 |             |         |

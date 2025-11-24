@@ -9,4 +9,4 @@ views:
       - date
     sort:
       - property: date
-        direction: ASC
+        direction: DESC

@@ -1,6 +1,6 @@
 ---
-title: <% tp.file.title %>
-date: <% tp.date.now("MMM DD, YYYY") %>
+title: Session 000
+date: Nov 24, 2025
 summary:
 ---
 
@@ -25,7 +25,9 @@ summary:
 
 # Session Notes
 
+let's see how this works, we just met [[content/World/Hollisen/Crestin/NPCs/Jerry|Jerry]]
 
+New method of just inserting a template with hotkeys, we just met [[content/World/Hollisen/Crestin/NPCs/Bethany|Bethany]]
 
 
 > [!example]+ NPCs This Session

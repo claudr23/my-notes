@@ -1,10 +1,12 @@
 ---
-title: Session 000
-date: Sept 15, 2024
+title: Session 0.5
+date: Nov 24, 2025
+summary:
 ---
-Nov 21, 2025
 
-# Previous Session Recap
+
+> [!info]- Previous Session Recap
+> -
 
 
 
@@ -31,7 +33,6 @@ Nov 21, 2025
 
 
 
-## Recap
-Background on the [[About the World|World]]
+> [!summary]- Summary
+> -
 
-Established PC relationships

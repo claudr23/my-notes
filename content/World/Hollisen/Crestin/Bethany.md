@@ -2,7 +2,7 @@
 title: Bethany
 aliases:
 species:
-Town: NPCs
+location: Crestin
 class:
 friendly:
 ---

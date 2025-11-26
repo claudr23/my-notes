@@ -25,9 +25,9 @@ summary:
 
 # Session Notes
 
-let's see how this works, we just met [[content/World/Hollisen/Crestin/NPCs/Jerry|Jerry]]
+let's see how this works, we just met [[Jerry|Jerry]]
 
-New method of just inserting a template with hotkeys, we just met [[content/World/Hollisen/Crestin/NPCs/Bethany|Bethany]]
+New method of just inserting a template with hotkeys, we just met [[Bethany|Bethany]]
 
 
 > [!example]+ NPCs This Session

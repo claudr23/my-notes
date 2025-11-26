@@ -1,9 +1,12 @@
 ---
-title: <% tp.file.title %>
+name: <% tp.file.title %>
 aliases:
 player:
 level:
 pass_percep:
+tags:
+  - character
+  - player
 ---
 ![[Pasted image 20251124110018.png|200]]
 

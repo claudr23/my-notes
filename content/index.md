@@ -5,9 +5,15 @@ date: <% tp.date.now("MMM DD, YYYY") %>
 
 overview at the top
 
-links to maps, character pages
+links to maps, character pages, any NPCs that are traveling with us
 
 Log of recent sessions with most recent at the top
+
+
+
+![[Session Log.base]]
+
+
 
 
 | Session         | Date Played | Summary |

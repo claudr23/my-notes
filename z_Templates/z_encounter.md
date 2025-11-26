@@ -1,3 +1,7 @@
+___
+## Starting HP
+
+
 
 | d20 | Initiative order                |
 | --- | ------------------------------- |
@@ -8,3 +12,8 @@
 |     | [[Tall Gnorman\|Gnorman]]       |
 |     |                                 |
 |     |                                 |
+### Round 1
+
+
+
+### Round 2

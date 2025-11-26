@@ -3,7 +3,7 @@ title: Jerry
 aliases:
   - the innkeeper
 species: orc
-Town: NPCs
+town: NPCs
 class: townsperson
 friendly: neutral
 ---

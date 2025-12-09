@@ -29,6 +29,9 @@ let's see how this works, we just met [[Jerry|Jerry]]
 
 New method of just inserting a template with hotkeys, we just met [[Bethany|Bethany]]
 
+Meeting a new NPC, [[content/World/Hollisen/Crestin/Jane|Jane]]
+
+
 
 > [!example]+ NPCs This Session
 > - 

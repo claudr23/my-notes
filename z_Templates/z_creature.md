@@ -2,26 +2,26 @@
 name: <% tp.file.title %>
 aliases:
 pronounced:
+friendly:
 description:
-location:
+condition:
+species:
+pass_percep:
 organizations:
-devotion:
+magical: true
+location:
 tags:
   - character
-  - diety
+  - creature
 ---
 (insert table here)
 
 
-# Overview
-
-
-
-## History
-
-
-
 # Notes
+
+
+
+
 
 
 

@@ -18,5 +18,14 @@ tags:
 
 
 
-> [!note] Relationships with other PCs
+> [!note]- Relationships with other PCs
 > Contents
+
+
+# Notes
+
+
+
+
+
+[[Welcome to the World|Home]]

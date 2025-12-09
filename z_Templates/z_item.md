@@ -1,14 +1,21 @@
 ---
-name: <% tp.file.title %>
+title: <% tp.file.title %>
 aliases:
 pronounced:
-description:
 location:
+description:
+summary:
+languages:
+type:
 organizations:
-devotion:
+recipients:
+creator:
+magical: false
+properties:
 tags:
-  - character
-  - diety
+  - item
+  - weapon
+  - letter
 ---
 (insert table here)
 

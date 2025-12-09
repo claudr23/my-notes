@@ -1,3 +1,4 @@
+
 | Info         | <%tp.file.title%> - *<%tp.frontmatter.pronounced%>* <br>"<%tp.frontmatter.aliases%>" |
 | ------------ | ------------------------------------------------------------------------------------ |
 | Type         | <%tp.frontmatter.type%>                                                              |

@@ -18,6 +18,7 @@ tags:
   - location
   - settlement
 ---
+(insert table here)
 
 
 
@@ -25,10 +26,13 @@ tags:
 > ![[Pasted image 20251126150819.png|200]]
 
 > [!NOTE]- Districts
+> 
 
-> [!NOTE]- Organizations
+> [!example]- Organizations
+> 
 
 > [!example]- NPCs
+> 
 
 
 # Overview
@@ -45,3 +49,7 @@ tags:
 
 
 # Notes
+
+
+
+[[Welcome to the World|Home]]

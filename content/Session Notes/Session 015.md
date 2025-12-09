@@ -56,4 +56,4 @@ this is where a recap of the current session will go and I will hopefully figure
 
 
 
-[[content/index|Home]]
+[[Welcome to the World|Home]]

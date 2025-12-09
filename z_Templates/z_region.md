@@ -1,18 +1,50 @@
-info section
-- aliases 
-- terrain
-- location
-- dominion - who is the overarching ruler of this land
+---
+name: <% tp.file.title %>
+aliases:
+pronounced:
+terrain:
+rulers:
+leaders:
+dominion:
+government:
+population:
+species:
+tags:
+  - location
+  - region
+---
+(insert table here)
 
-Map
-counties
-settlements
-locations?
 
-Overview
+> [!NOTE]- Map
+> ![[Pasted image 20251126150819.png|200]]
 
-Current events
+> [!NOTE]- Counties
+> 
 
-History 
+> [!NOTE]- Settlements
+> 
 
-notes
+>[!NOTE]- Locations
+>
+
+
+
+# Overview
+
+
+
+## Current Events
+
+
+
+## History 
+
+
+
+# Notes
+
+
+
+
+[[Welcome to the World|Home]]

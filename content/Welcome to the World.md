@@ -2,13 +2,16 @@
 title: Welcome to the World
 date: <% tp.date.now("MMM DD, YYYY") %>
 ---
-
+# Overview
 overview at the top
 
-links to maps, character pages, any NPCs that are traveling with us
 
-Log of recent sessions with most recent at the top
+## Player Characters
+[[Ayana]]                                                                                       [[Emmeline Windgale]]
+[[Macheath Longfellow]]                                                             [[Moss]]
+[[Tall Gnorman]]
 
+links to maps, any NPCs that are traveling with us
 
 
 | Session         | Date Played | Summary |

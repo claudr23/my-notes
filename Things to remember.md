@@ -7,6 +7,10 @@
 > - this ensures the title of the page is correct
 > - make sure to capitalize "Session"
 
+>[!tip]+ Other Hotkeys
+>double brackets to link each NPC/Location/Item and type out folder pathway to make a quick link. ex: content/NPCs/NEW NPC NAME
+>- command + click on the link to create that page
+
 
 
 > [!tip]- Templates

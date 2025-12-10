@@ -25,11 +25,11 @@ summary:
 
 
 # Session Notes
-Mac is traveling with [[content/NPCs/Ser Norman|Ser Norman]]’s retinue and is looking for provisions alone in the woods. Near the Haffles
+Mac is traveling with [[Ser Norman]]'s retinue and is looking for provisions alone in the woods. Near the Haffles
 
-There is a fire at the camp and Mac fights with  [[content/Creatures/Goblins|goblins]] and a [[content/Creatures/Bugbear|Bugbear]], they are killing Ser Norman
+There is a fire at the camp and Mac fights with [[Goblins]] and a [[Bugbear]], they are killing Ser Norman
 
-Ser Norman tells him to go to Crestin to find Ser Edmund - he was going to knight Mac once they got there. Has an envelope to give to Ser Edmund.
+Ser Norman tells him to go to [[Crestin]] to find [[Ser Edmund]] - he was going to knight Mac once they got there. Has an envelope to give to Ser Edmund.
 
 Norman gives him a ring and tells him to wear it - it’s a heavy iron ring with a square engraving on it - represents Norman’s sigil.
 
@@ -255,4 +255,4 @@ Queen accuses Celethorn and he looks unknowing and shocked, even more worried, s
 
 
 
-[[Welcome to the World|Home]]
+[[content/Index|Home]]

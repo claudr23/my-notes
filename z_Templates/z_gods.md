@@ -26,4 +26,4 @@ tags:
 
 
 
-[[Welcome to the World|Home]]
+[[content/Index|Home]]

@@ -1,7 +1,7 @@
 ---
-name: Ser Norman
+name: Ser Edmund
 aliases:
-  - Sir Norman
+  - Sir Edmund
 pronounced:
 description:
 gender: male
@@ -12,12 +12,12 @@ species:
 class: fighter
 location:
   - "[[NPCs]]"
-  - Haffles
+  - "[[Crestin]]"
 friendly: friendly
 occupation: knight
 languages:
   - common
-condition: dead
+condition: healthy
 tags:
   - npc
   - character

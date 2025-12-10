@@ -11,4 +11,4 @@ pulls info from previous volumes and goes into validity of items of importance
 
 
 
-[[Welcome to the World|Home]]
+[[content/Index|Home]]

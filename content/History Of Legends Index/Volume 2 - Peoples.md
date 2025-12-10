@@ -9,4 +9,4 @@ Elves, humans, gnomes, halflings, dwarves, etc
 
 
 
-[[Welcome to the World|Home]]
+[[content/Index|Home]]

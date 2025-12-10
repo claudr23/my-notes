@@ -33,4 +33,4 @@ tags:
 
 
 
-[[content/Index|Home]]
+[[content/index|Home]]

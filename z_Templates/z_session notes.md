@@ -41,4 +41,4 @@ summary:
 
 
 
-[[content/Index|Home]]
+[[content/index|Home]]

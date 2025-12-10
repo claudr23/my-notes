@@ -23,4 +23,4 @@ ___
 
 
 
-[[content/Index|Home]]
+[[content/index|Home]]

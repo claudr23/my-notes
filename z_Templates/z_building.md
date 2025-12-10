@@ -6,6 +6,7 @@ type:
 leaders:
 description:
 settlement:
+characters:
 tags:
   - location
   - tavern
@@ -13,6 +14,7 @@ tags:
   - temple
   - castle
   - barracks
+  - shop
 ---
 (insert table here)
 
@@ -45,4 +47,4 @@ tags:
 
 
 
-[[content/Index|Home]]
+[[content/index|Home]]

@@ -9,4 +9,4 @@ locations with energy and importance
 
 
 
-[[content/Index|Home]]
+[[content/index|Home]]

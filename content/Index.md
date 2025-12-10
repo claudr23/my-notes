@@ -1,5 +1,5 @@
 ---
-title: Welcome to the World
+title: Index
 date: <% tp.date.now("MMM DD, YYYY") %>
 ---
 # Overview

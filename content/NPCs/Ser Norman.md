@@ -2,6 +2,7 @@
 name: Ser Norman
 aliases:
   - Sir Norman
+  - Norman
 pronounced:
 description:
 gender: male

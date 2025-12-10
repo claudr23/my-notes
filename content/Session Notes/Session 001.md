@@ -37,7 +37,7 @@ Norman knights Mac before he dies - the ring glows as he finishes knighting Mac
 
   
 
-White Branch Town Market - early morning market that is starting to wake up.
+[[content/World/Hollisen/White Branch/White Branch|White Branch]] Town Market - early morning market that is starting to wake up.
 
 Cart that is full of goods and provisions with another one next to it - not attached to a horse. Small sandy blonde halfling man that is loading provisions onto horseless cart
 
@@ -47,7 +47,7 @@ Pulls out book with wax seals and stamps on it - takes candle that was on his ca
 
 Part of my training is to push the cart myself around town. I take off my bladed maul and go under the yoke to push the cart back to the smith’s 20 athletics check
 
-I have one more errand - stop in front of a shop called Shining Oddities - Colum sources gems from across the kingdom for  jewelry.
+I have one more errand - stop in front of a shop called [[content/World/Hollisen/White Branch/Shining Oddities|Shining Oddities]] - [[Colum Agus|Colum]] sources gems from across the kingdom for  jewelry.
 
 Dark room with filtering sunlight - collections of sparkling gems all hanging on a back wall. I approach the case.
 

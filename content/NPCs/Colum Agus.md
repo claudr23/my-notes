@@ -1,23 +1,23 @@
 ---
-name: Ser Edmund
+name: Colum Agus
 aliases:
-  - Sir Edmund
-  - Edmund
-pronounced:
+  - Colum
+pronounced: call-um
 description:
 gender: male
 pronouns: he/him
 age:
 species:
-  - human
-class: fighter
+  - dwarf
+class:
 location:
   - "[[NPCs]]"
-  - "[[Crestin]]"
+  - "[[White Branch]]"
 friendly: friendly
-occupation: knight
+occupation: blacksmith
 languages:
   - common
+  - dwarvish
 condition: healthy
 tags:
   - npc

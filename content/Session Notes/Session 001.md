@@ -37,7 +37,7 @@ Norman knights Mac before he dies - the ring glows as he finishes knighting Mac
 
   
 
-[[content/World/Hollisen/White Branch/White Branch|White Branch]] Town Market - early morning market that is starting to wake up.
+[[White Branch]] Town Market - early morning market that is starting to wake up.
 
 Cart that is full of goods and provisions with another one next to it - not attached to a horse. Small sandy blonde halfling man that is loading provisions onto horseless cart
 
@@ -47,17 +47,17 @@ Pulls out book with wax seals and stamps on it - takes candle that was on his ca
 
 Part of my training is to push the cart myself around town. I take off my bladed maul and go under the yoke to push the cart back to the smith’s 20 athletics check
 
-I have one more errand - stop in front of a shop called [[content/World/Hollisen/White Branch/Shining Oddities|Shining Oddities]] - [[Colum Agus|Colum]] sources gems from across the kingdom for  jewelry.
+I have one more errand - stop in front of a shop called [[Shining Oddities]] - [[Colum Agus|Colum]] sources gems from across the kingdom for  jewelry.
 
 Dark room with filtering sunlight - collections of sparkling gems all hanging on a back wall. I approach the case.
 
-Human worker - dressed nicely. I have known him since my childhood, Geoffrey.
+Human worker - dressed nicely. I have known him since my childhood, [[content/NPCs/Geoffrey]].
 
 Emerges from back room with small wooden box 15 investigation check lunch box sized, intricate carvings made well, looks dwarven but they are more known for masonry and metallurgy so not woodworking. This is neat, clean, functional, and beautiful - it’s Gnomish.
 
 As he puts the box down I casually put the quill in his breast pocket 22 intimidate check, I freak him out and stamp the ledger for the box
 
-I continue on to the Smithy - the day has truly started now. Make it to the Artisan’s section of town. Sign that says “Agus, Arden, & Arms” outside the Smithy. I put the cart down and there is a commotion.
+I continue on to the Smithy - the day has truly started now. Make it to the Artisan’s section of town. Sign that says “[[content/World/Hollisen/White Branch/Agus, Arden, & Arms]]” outside the Smithy. I put the cart down and there is a commotion.
 
 Procession of riders - they are elvish. From the Vardominal Confederation. My Uncle Celethorn, bright shining silver hair, scale mail armour, elven longsword, atop his white and gold horse.
 

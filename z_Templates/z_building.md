@@ -14,6 +14,7 @@ tags:
   - castle
   - barracks
   - shop
+  - dwelling
 ---
 (insert table here)
 

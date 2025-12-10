@@ -6,7 +6,6 @@ type:
 leaders:
 description:
 settlement:
-characters:
 tags:
   - location
   - tavern

@@ -7,6 +7,6 @@
 | Type                  | <%tp.frontmatter.type%>                                                              |
 | Leader/Owner          | <%tp.frontmatter.leaders%>                                                           |
 | Settlement            | <%tp.frontmatter.settlement%>                                                        |
-| Associated Characters | <%tp.frontmatter.characters%>                                                        |
+
 
 

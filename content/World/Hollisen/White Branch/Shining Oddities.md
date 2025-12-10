@@ -5,13 +5,8 @@ pronounced:
 type: shop
 leaders:
   - unknown
-description:
-  - Gem Shop
+description: gem shop
 settlement: "[[White Branch]]"
-characters:
-  - "[[Colum Agus]]"
-  - "[[Ayana]]"
-  - "[[Geoffrey]]"
 tags:
   - location
   - shop
@@ -19,24 +14,26 @@ tags:
 
 ![[Pasted image 20251124144003.png|200]]
 
-|                       | Shining Oddities                      |
-| --------------------- | ------------------------------------- |
-| Description           | Gem Shop                              |
-| Type                  | shop                                  |
-| Leader/Owner          | unknown                               |
-| Settlement            | [[White Branch]]                      |
-| Associated Characters | [[Colum Agus]],[[Ayana]],[[Geoffrey]] |
+|                       | Shining Oddities - *null* <br>"null" |
+| --------------------- | ------------------------------------------------------------------------------------ |
+| Description           | gem shop                                                       |
+| Type                  | shop                                                              |
+| Leader/Owner          | unknown                                                           |
+| Settlement            | [[White Branch]]                                                        |
+
 
 
 
 
 
 > [!example]- Organizations
-> 
+> [[Smith's Guild]]
 
 
 >[!example]- Characters
->
+> [[Colum Agus|Colum]]
+> [[Ayana]]
+> [[Geoffrey]]
 
 
 

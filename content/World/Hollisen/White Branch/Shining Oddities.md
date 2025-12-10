@@ -11,7 +11,7 @@ tags:
   - location
   - shop
 characters:
-  - "[[Colum Agus]]"
+  - Colum Agus
 ---
 (insert table here)
 

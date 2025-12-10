@@ -1,15 +1,17 @@
 ---
-name: <% tp.file.title %>
+name: Bugbear
 aliases:
 pronounced:
-friendly:
+friendly: enemy
 description:
 condition:
 species:
+  - bugbear
 pass_percep:
 organizations:
 magical: false
 location:
+  - Haffles
 tags:
   - character
   - creature

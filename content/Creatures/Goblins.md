@@ -1,15 +1,18 @@
 ---
-name: <% tp.file.title %>
+name: Goblins
 aliases:
+  - goblin
 pronounced:
-friendly:
+friendly: enemy
 description:
 condition:
 species:
+  - goblin
 pass_percep:
 organizations:
 magical: false
 location:
+  - Haffles
 tags:
   - character
   - creature

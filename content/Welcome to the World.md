@@ -7,8 +7,16 @@ overview at the top
 
 
 ## Player Characters
-[[Ayana]]                                                                                       [[Emmeline Windgale]]
-[[Macheath Longfellow]]                                                             [[Moss]]
+[[Ayana]] 
+
+[[Emmeline Windgale]]
+
+
+[[Macheath Longfellow]]   
+
+[[Moss]]
+
+
 [[Tall Gnorman]]
 
 links to maps, any NPCs that are traveling with us

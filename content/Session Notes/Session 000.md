@@ -55,21 +55,20 @@ Qiz
 - Fables
 - Site of ancient battles between dwarves and elves
 
-Sintol
-- Hollisen (formerly Tanera) - has most details about this, closest to metropolitan, predominantly humans - is a kingdom, like england
-	- Crestin - human capital, where only wizard school is called Arcanade
-		- Seat of Hollisen
-	- White Branch - holy city, temple to moon goddess
-	- Tirest - elven city, watches Pelegos
-	- Risten - sister city to Tirest, also Elven, strategically placed to Chitin Bay
-	- Chitin Bay - port town, Dwarven town, ruled by either Hirigad or Bucannerial League
-	- Axle - most metropolitan area, roads are it’s spokes, ruled by Hollisen
-	- Wonach - dwarven town ruled by buccanerial league, lots of gnomes
-	- Western Lands - Open plains, good for farming
-	- Eastern lands - mostly uninhabited except for those that can defend themselves, lots of raiders. Goblins and Hyena people are here as well as Orcs
-		- Orcs met dragonborn in the rising woods, entire clan was wiped out by a red dragon long ago. They defeated it and the dragonborn awoke for the first time. Made a pact to get rid of the Dragon Masters and they did!
-	- Rising Woods - no town there, not Princess Booby times
-	- Home of Halflings - Hillock and Haffles, Bleeders, Gosmers (more swampy), Teggend
+[[Hollisen]] (Elvish name: Sintol) - has most details about this, closest to metropolitan, predominantly humans - is a kingdom, like england
+- [[Crestin]] - human capital, where only wizard school is called Arcanade
+	- Seat of Hollisen
+- [[White Branch]] - holy city, temple to moon goddess
+- Tirest - elven city, watches Pelegos
+- Risten - sister city to Tirest, also Elven, strategically placed to Chitin Bay
+- Chitin Bay - port town, Dwarven town, ruled by either Hirigad or Bucannerial League
+- Axle - most metropolitan area, roads are it’s spokes, ruled by Hollisen
+- Wonach - dwarven town ruled by buccanerial league, lots of gnomes
+- Western Lands - Open plains, good for farming
+- Eastern lands - mostly uninhabited except for those that can defend themselves, lots of raiders. Goblins and Hyena people are here as well as Orcs
+	- Orcs met dragonborn in the rising woods, entire clan was wiped out by a red dragon long ago. They defeated it and the dragonborn awoke for the first time. Made a pact to get rid of the Dragon Masters and they did!
+- Rising Woods - no town there, not Princess Booby times
+- Home of Halflings - Hillock and Haffles, Bleeders, Gosmers (more swampy), Teggend
 
 Pelegos Islands
 - Temperate rainforest, lots of rain from the crystal sea

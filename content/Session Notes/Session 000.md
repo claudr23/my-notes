@@ -56,7 +56,7 @@ Qiz
 - Site of ancient battles between dwarves and elves
 
 [[Hollisen]] (Elvish name: Sintol) - has most details about this, closest to metropolitan, predominantly humans - is a kingdom, like england
-- [[Crestin]] - human capital, where only wizard school is called Arcanade
+- [[Crestin]] - human capital, where only wizard school is called [[The Arcanade]]
 	- Seat of Hollisen
 - [[White Branch]] - holy city, temple to moon goddess
 - Tirest - elven city, watches Pelegos

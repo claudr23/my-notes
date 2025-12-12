@@ -1,5 +1,5 @@
 ---
-title: Welcome to The World
+title: index
 date: Dec 10, 2025
 ---
 # Overview

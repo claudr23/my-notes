@@ -1,20 +1,13 @@
 ---
-name: <% tp.file.title %>
+name: The Arcanade
 aliases:
-pronounced:
-type:
+pronounced: ar-can-ahd
+type: academy
 leaders:
-description:
-settlement:
+description: wizard school
+settlement: "[[Crestin]]"
 tags:
   - location
-  - tavern
-  - inn
-  - temple
-  - castle
-  - barracks
-  - shop
-  - dwelling
   - academy
 ---
 (insert table here)
@@ -25,7 +18,8 @@ tags:
 
 
 >[!example]- Characters
->
+> [[Tall Gnorman]]
+
 
 
 

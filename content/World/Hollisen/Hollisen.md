@@ -27,19 +27,33 @@ tags:
 
 > [!NOTE]- Settlements
 > [[Crestin]]
+> 
 > [[White Branch]]
+> 
 > [[content/World/Hollisen/Tirest]]
+> 
 > [[content/World/Hollisen/Risten]]
+> 
 > [[content/World/Hollisen/Chitin Bay]]
+> 
 > [[content/World/Hollisen/Axle]]
+> 
 > [[content/World/Hollisen/Wonach]]
+> 
 > [[content/World/Hollisen/Western Lands]]
+> 
 > [[content/World/Hollisen/Eastern Lands]]
+> 
 > [[content/World/Hollisen/Rising Woods]]
+> 
 > [[content/World/Hollisen/Hillock]]
+> 
 > [[content/World/Hollisen/Haffles]]
+> 
 > [[content/World/Hollisen/Bleeders]]
+> 
 > [[content/World/Hollisen/Gosmers]]
+> 
 > [[content/World/Hollisen/Teggend]]
 
 >[!NOTE]- Locations

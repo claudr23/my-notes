@@ -8,4 +8,4 @@ monsters, angels, demons and such
 
 
 
-[[content/index|Home]]
+[[index2|Home]]

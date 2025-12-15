@@ -1,6 +1,6 @@
 ---
-title: Welcome to The World
-date: Dec 10, 2025
+title: index
+date: <% tp.date.now("MMM DD, YYYY") %>
 ---
 # Overview
 overview at the top

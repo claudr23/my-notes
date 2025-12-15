@@ -55,4 +55,4 @@ tags:
 
 
 
-[[index2|Home]]
+[[content/index|Home]]

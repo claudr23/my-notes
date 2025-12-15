@@ -1,6 +1,6 @@
 ---
-title: index
-date: <% tp.date.now("MMM DD, YYYY") %>
+title:
+date:
 ---
 # Overview
 overview at the top

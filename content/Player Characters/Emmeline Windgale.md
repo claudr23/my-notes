@@ -20,7 +20,7 @@ tags:
 > - mentor
 > 
 > [[content/NPCs/Prince Rowan]]
-> - cousin and best friend
+> - favorite cousin and best friend
 
 
 
@@ -31,6 +31,9 @@ tags:
 
 # Notes
 
+- Bastard third cousin to [[content/NPCs/King Volth]]
+- Raised in the castle to become a [[content/Organizations/Kingsguard]]
+- 
 
 
 

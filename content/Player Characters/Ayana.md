@@ -15,11 +15,26 @@ tags:
 > [!example]- Connected NPCs
 > [[Colum Agus]]
 > - adoptive father and mentor
+> 
+> [[conent/NPCs/Rhea Arden]]
+> - adoptive mother
+> 
+> [[content/NPCs/Shonag Agus]]
+> - adoptive sister
+> 
+> [[content/NPCs/Remus Arden]]
+> - adoptive brother
+>
+[[Celethorn]]
+> - adoptive uncle - Rhea's best friend
 
 
 
 > [!note]- Relationships with other PCs
-> Contents
+> [[Moss]]
+> - old friends from childhood
+> - haven't seen each other in a while at the start of the campaign
+
 
 
 # Notes

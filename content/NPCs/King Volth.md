@@ -1,18 +1,23 @@
 ---
-name: <% tp.file.title %>
+name: King Volth
 aliases:
+  - Volth
+  - The King
 pronounced:
 description:
-gender:
-pronouns:
+gender: male
+pronouns: he/him
 age:
 species:
+  - human
 class:
 location:
+  - "[[Crestin]]"
 friendly:
-occupation:
+occupation: royalty
 languages:
-condition:
+  - common
+condition: healthy
 tags:
   - npc
   - character

@@ -25,7 +25,7 @@ summary:
 
 
 # Session Notes
-Mac is traveling with [[Ser Norman]]'s retinue and is looking for provisions alone in the woods. Near the Haffles
+[[Macheath Longfellow]] is traveling with [[Ser Norman Stormstrife]]'s retinue and is looking for provisions alone in the woods. Near the Haffles
 
 There is a fire at the camp and Mac fights with [[Goblins]] and a [[Bugbear]], they are killing Ser Norman
 
@@ -41,11 +41,11 @@ Norman knights Mac before he dies - the ring glows as he finishes knighting Mac
 
 Cart that is full of goods and provisions with another one next to it - not attached to a horse. Small sandy blonde halfling man that is loading provisions onto horseless cart
 
-Ayana is working with halfling to fill up the cart - rope, torches, and fishing line, as well as water and food
+[[Ayana]] is working with halfling to fill up the cart - rope, torches, and fishing line, as well as water and food
 
 Pulls out book with wax seals and stamps on it - takes candle that was on his cart already and drops the wax on the book and I stamp my guild ring in it.
 
-Part of my training is to push the cart myself around town. I take off my bladed maul and go under the yoke to push the cart back to the smith’s 20 athletics check
+Part of my training is to push the cart myself around town. I take off my bladed maul and go under the yoke to push the cart back to the smith’s **20 athletics check
 
 I have one more errand - stop in front of a shop called [[Shining Oddities]] - [[Colum Agus|Colum]] sources gems from across the kingdom for  jewelry.
 
@@ -53,25 +53,30 @@ Dark room with filtering sunlight - collections of sparkling gems all hanging on
 
 Human worker - dressed nicely. I have known him since my childhood, [[content/NPCs/Geoffrey]].
 
-Emerges from back room with small wooden box 15 investigation check lunch box sized, intricate carvings made well, looks dwarven but they are more known for masonry and metallurgy so not woodworking. This is neat, clean, functional, and beautiful - it’s Gnomish.
+Emerges from back room with small wooden box 
+**15 investigation check** 
+- lunch box sized, intricate carvings made well
+- looks dwarven but they are more known for masonry and metallurgy so not woodworking
+- This is neat, clean, functional, and beautiful - it’s Gnomish.
 
 As he puts the box down I casually put the quill in his breast pocket 22 intimidate check, I freak him out and stamp the ledger for the box
 
 I continue on to the Smithy - the day has truly started now. Make it to the Artisan’s section of town. Sign that says “[[content/World/Hollisen/White Branch/Agus, Arden, & Arms]]” outside the Smithy. I put the cart down and there is a commotion.
 
-Procession of riders - they are elvish. From the Vardominal Confederation. My Uncle Celethorn, bright shining silver hair, scale mail armour, elven longsword, atop his white and gold horse.
+Procession of riders - they are elvish. From the Vardominal Confederation. My Uncle, [[content/NPCs/Celethorn]], bright shining silver hair, scale mail armour, elven longsword, atop his white and gold horse.
 
-Colum, Remus, and Shonag come out to greet him and we all head inside the smithy.
+[[Colum Agus]], [[Remus Arden]], and [[Shonag Agus]] come out to greet him and we all head inside the smithy.
 
-Remus is saying that he’ll probably stay home 9 insight check he was excited before. Shonag and I make fun of him because there’s a girl he likes.
+Remus is saying that he’ll probably stay home **9 insight check** he was excited before. Shonag and I make fun of him because there’s a girl he likes.
 
 Just Me and Colum going with Celethorn.
 
   
 
-Spoke Inn in Axle
+[[content/World/Hollisen/Axle/Spoke Inn]] in [[Axle]]
 
-Moss gets on stage - does a performance and a drunken man tries to steal her money.
+
+[[Moss]] gets on stage - does a performance and a drunken man tries to steal her money.
 
 Mac is there and stops the drunkard - (do they know each other beforehand?I don’t think so)
 
@@ -87,7 +92,7 @@ I walk up to the host desk, there’s a pimply faced teen there that’s sleepy.
 
 I sit at the bar and strike a conversation with Moss - “you are my oldest friend”. I say it genuinely but am hurt that Moss pretended to not know me.
 
-19 insight check I understand that she’s been hiding for a couple years and hasn’t had an opportunity to make friends or connect with people. I don’t take it personally, Moss was an outsider when we were kids so I understand where she’s coming from.
+**19 insight check** I understand that she’s been hiding for a couple years and hasn’t had an opportunity to make friends or connect with people. I don’t take it personally, Moss was an outsider when we were kids so I understand where she’s coming from.
 
 Ayana offers both Moss and Mac rides on our cart to Crestin. Need to check with Colum
 
@@ -95,21 +100,22 @@ Ayana offers both Moss and Mac rides on our cart to Crestin. Need to check with 
 
 Bright Sunny day - open green full of travelers
 
-City of Crestin - can see the waves in the distance
+City of [[Crestin]] - can see the waves in the distance
 
-Throne of the family Hollis - King Volth “The Good King”
+Throne of the family Hollis - [[King Volth]] “The Good King”
 
-Church of Pelor, god of the sun, prime deity of humans, Cathedral of the Sun is here, alongside Castle Hollis
+### Ask Jesse about the name of the religion
+Church of Pelor, god of the sun, prime deity of humans, Cathedral of the Sun is here, alongside [[content/Hollisen/Crestin/Castle Hollis]]
 
-Third major part of the city, tall spires, Wizarding School of The Arcanade
+Third major part of the city, tall spires, Wizarding School of [[The Arcanade]]
 
 Outside of the City walls are the tourney yards, archery, melee, and the tent pavilion.
 
 Royal Pavillion is closer to the tourney grounds
 
-Super handsome Prince on a dais - Emmeline is next to him, is a distant cousin of his
+Super handsome Prince on a dais - [[Emmeline Windgale]] is next to him, is a distant cousin of his
 
-Prince Rowan of Hollison - favorite cousin of Emmeline’s and the feeling is mutual
+[[Prince Rowan]] of [[Hollisen]] - favorite cousin of Emmeline’s and the feeling is mutual
 
 He says “when I’m king you will be able to wear whatever you wish” (this includes the royal purple colors) She doesn’t believe him.
 
@@ -122,13 +128,12 @@ Rowan has been writing with “him” - GAY?!?!?!
 Letter in SECRET COMPARTMENT
 
 - “Your grace, the time of our reunion is near at hand. I have thought of your face every morning and seen it in every cloud across the sky. Nary shall i say that the moon is as beautiful as your face and found it false. May our lances meet again. - C”
-    
 
-“The only love letters should be coming from me” Queen Thalia Hollis - Rowan’s mother, doesn’t approve of Emmeline being there
+“The only love letters should be coming from me” [[content/NPCs/Queen Thalia]] Hollis - Rowan’s mother, doesn’t approve of Emmeline being there
 
 As Emmeline leaves, she bumps into the KING
 
-Her mentor is one of the king’s guard and is surprised to see her there - Ser Edmund
+Her mentor is one of the king’s guard and is surprised to see her there - [[Ser Edmund]]
 
 There are already rumors about the prince - calling his cousin to his side in public could be seen negatively
 

@@ -1,21 +1,20 @@
 ---
-name: Geoffrey
+name: Celethorn
 aliases:
-pronounced:
-description:
+pronounced: kell-uh-thorn
+description: bright silver hair, scale mail armor, elven longsword
 gender: male
 pronouns: he/him
 age:
 species:
-  - human
+  - elvish
 class:
 location:
-  - "[[White Branch]]"
-  - "[[Shining Oddities]]"
-friendly: neutral
-occupation: shop boy
+friendly: friendly
+occupation: knight
 languages:
   - common
+  - elvish
 condition: healthy
 tags:
   - npc

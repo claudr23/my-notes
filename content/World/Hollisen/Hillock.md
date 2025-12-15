@@ -1,17 +1,19 @@
 ---
-name: Crestin
+name: Hillock
 aliases:
-pronounced: cress-tin
-type: city
+pronounced:
+type: settlement
 terrain:
+  - hilly
 defenses:
+  - mote
+  - guards
 location:
-  - "[[Hollisen]]"
+  - Hollisen
 rulers:
-  - King Volth
 leaders:
 dominion:
-government: kingdom
+government:
 population:
 imports:
 exports:
@@ -26,9 +28,6 @@ tags:
 > [!NOTE]- Map
 > ![[Pasted image 20251126150819.png|200]]
 
->[!NOTE]- Locations
->[[content/World/Hollisen/Crestin/The Arcanade]]
-
 > [!NOTE]- Districts
 > 
 
@@ -40,7 +39,7 @@ tags:
 
 
 # Overview
-
+"Fully autonomous zone for halflings"
 
 
 ## Current Events

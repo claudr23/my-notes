@@ -14,7 +14,7 @@ tags:
 
 
 > [!example]- Connected NPCs
-> [[Ser Norman]]
+> [[Ser Norman Stormstrife]]
 > - mentor
 
 
@@ -25,7 +25,17 @@ tags:
 
 # Notes
 
+- squire for traveling hedge knight
+	- happened after Mac killed a bandit leader with a mason's hammer
+- grew up in small village near the Wild East
+- parents died and became a mason's apprentice
+- 6'7" tall 
 
+
+
+## Major Events
+
+- gets knighted by [[Ser Norman Stormstrife]] as he's dying at the beginninf os [[Session 001]]
 
 
 

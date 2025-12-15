@@ -1,24 +1,22 @@
 ---
-name: Ser Norman
+name: Remus Arden
 aliases:
-  - Sir Norman
-  - Norman
-pronounced:
+  - Remus
+pronounced: ree-mus
 description:
 gender: male
 pronouns: he/him
 age:
 species:
   - human
-class: fighter
+class:
 location:
-  - "[[NPCs]]"
-  - Haffles
+  - "[[White Branch]]"
 friendly: friendly
-occupation: knight
+occupation:
 languages:
   - common
-condition: dead
+condition: healthy
 tags:
   - npc
   - character

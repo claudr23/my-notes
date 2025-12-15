@@ -19,12 +19,15 @@ tags:
 
 
 > [!note]- Relationships with other PCs
-> Contents
+> [[Ayana]]
+> - old friends from childhood
+> - haven't seen each other in a while at the start of the campaign
 
 
 # Notes
 
-
+- been in hiding for a couple years at the start of the campaign
+- was an outsider in her childhood 
 
 
 

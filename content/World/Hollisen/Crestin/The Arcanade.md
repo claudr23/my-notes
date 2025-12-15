@@ -4,7 +4,7 @@ aliases:
 pronounced: ar-can-ahd
 type: academy
 leaders:
-description: wizard school
+description: wizard school with tall spires
 settlement: "[[Crestin]]"
 tags:
   - location

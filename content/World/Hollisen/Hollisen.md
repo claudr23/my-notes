@@ -5,13 +5,14 @@ aliases:
 pronounced: hall-ih-sen
 terrain:
 rulers:
+  - King Volth
 leaders:
 dominion:
 government: kingdom
 population:
 species:
   - human
-  - elves
+  - elvish
 tags:
   - location
   - region
@@ -23,7 +24,8 @@ tags:
 > ![[Pasted image 20251126150819.png|200]]
 
 > [!NOTE]- Counties
-> 
+> [[content/World/Hollisen/Rosnia/Rosnia]]
+> - duchy that Axel is in - need more info about all the duchies
 
 > [!NOTE]- Settlements
 > [[Crestin]]

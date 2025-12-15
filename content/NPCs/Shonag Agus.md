@@ -1,21 +1,22 @@
 ---
-name: Geoffrey
+name: Shonag Agus
 aliases:
-pronounced:
+  - Shonag
+pronounced: show-nag
 description:
-gender: male
-pronouns: he/him
+gender: female
+pronouns: she/her
 age:
 species:
-  - human
+  - dwarf
 class:
 location:
   - "[[White Branch]]"
-  - "[[Shining Oddities]]"
-friendly: neutral
-occupation: shop boy
+friendly: friendly
+occupation:
 languages:
   - common
+  - dwarvish
 condition: healthy
 tags:
   - npc

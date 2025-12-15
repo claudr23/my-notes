@@ -21,9 +21,6 @@ summary:
 
 
 
-
-
-
 # Session Notes
 [[Macheath Longfellow]] is traveling with [[Ser Norman Stormstrife]]'s retinue and is looking for provisions alone in the woods. Near the Haffles
 
@@ -51,7 +48,7 @@ I have one more errand - stop in front of a shop called [[Shining Oddities]] - [
 
 Dark room with filtering sunlight - collections of sparkling gems all hanging on a back wall. I approach the case.
 
-Human worker - dressed nicely. I have known him since my childhood, [[content/NPCs/Geoffrey]].
+Human worker - dressed nicely. I have known him since my childhood, [[Geoffrey]].
 
 Emerges from back room with small wooden box 
 **15 investigation check** 
@@ -61,9 +58,9 @@ Emerges from back room with small wooden box
 
 As he puts the box down I casually put the quill in his breast pocket 22 intimidate check, I freak him out and stamp the ledger for the box
 
-I continue on to the Smithy - the day has truly started now. Make it to the Artisan’s section of town. Sign that says “[[content/World/Hollisen/White Branch/Agus, Arden, & Arms]]” outside the Smithy. I put the cart down and there is a commotion.
+I continue on to the Smithy - the day has truly started now. Make it to the Artisan’s section of town. Sign that says “[[Agus, Arden, & Arms]]” outside the Smithy. I put the cart down and there is a commotion.
 
-Procession of riders - they are elvish. From the Vardominal Confederation. My Uncle, [[content/NPCs/Celethorn]], bright shining silver hair, scale mail armour, elven longsword, atop his white and gold horse.
+Procession of riders - they are elvish. From the Vardominal Confederation. My Uncle, [[Celethorn]], bright shining silver hair, scale mail armour, elven longsword, atop his white and gold horse.
 
 [[Colum Agus]], [[Remus Arden]], and [[Shonag Agus]] come out to greet him and we all head inside the smithy.
 
@@ -73,7 +70,7 @@ Just Me and Colum going with Celethorn.
 
   
 
-[[content/World/Hollisen/Axle/Spoke Inn]] in [[Axle]]
+[[Spoke Inn]] in [[Axle]]
 
 
 [[Moss]] gets on stage - does a performance and a drunken man tries to steal her money.
@@ -125,11 +122,11 @@ Emmeline is a bastard child of an embarrassing cousin 
 
 Rowan has been writing with “him” - GAY?!?!?!
 
-Letter in SECRET COMPARTMENT
+[[Letter to Prince Rowan]] in SECRET COMPARTMENT
 
 - “Your grace, the time of our reunion is near at hand. I have thought of your face every morning and seen it in every cloud across the sky. Nary shall i say that the moon is as beautiful as your face and found it false. May our lances meet again. - C”
 
-“The only love letters should be coming from me” [[content/NPCs/Queen Thalia]] Hollis - Rowan’s mother, doesn’t approve of Emmeline being there
+“The only love letters should be coming from me” [[Queen Thalia]] Hollis - Rowan’s mother, doesn’t approve of Emmeline being there
 
 As Emmeline leaves, she bumps into the KING
 

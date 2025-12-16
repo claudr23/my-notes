@@ -257,4 +257,5 @@ Queen accuses Celethorn and he looks unknowing and shocked, even more worried, s
 
 
 
-[[index2|Home]]
+[[content/index|Home]]
+

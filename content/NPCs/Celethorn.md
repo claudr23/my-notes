@@ -25,9 +25,10 @@ tags:
 
 # Notes
 
+- is an important elf, keeps his private life pretty private
+- [[Ayana]] is one of the only people that knows who he really is (GAY)
 
 
 
 
-
-[[index2|Home]]
+[[content/index|Home]]

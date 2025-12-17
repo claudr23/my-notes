@@ -142,11 +142,11 @@ Ser Edmund and Mac greet eachother and both their rings glow blue - EMMELINE DOE
 
 Ser Edmund calls him Ser Macheath
 
-Mac tells him of what happened - not a lot of people believe that goblins exist, not a precedent for goblin attacks, usually either a “boy who cried wolf” lie or heard about them in fairy tales
+Mac tells him of what happened - not a lot of people believe that [[Goblins]] exist, not a precedent for goblin attacks, usually either a “boy who cried wolf” lie or heard about them in fairy tales
 
 To Emmeline - this sounds like a made up story but Edmund is accepting it as truth
 
-Edmund “there have been strange stories coming out of the Haffles of late . . . seems that with the mark of the millennium, the kingdom is in for an age of hardship it hasn’t seen since it’s founding. . . Ser Norman and I thought it best if the two of you would team us and travel across the land to aid in any hardships that come to the common people, to help the realm. Find a party that will have your back on the road, hire a wizard and one of the gods blessed. Wizard for utility and the other for healing help. There is no loss of honor in traveling with help it allows you to do good.”
+Edmund “there have been strange stories coming out of the Haffles of late . . . seems that with the mark of the millennium, the kingdom is in for an age of hardship it hasn’t seen since it’s founding. . . [[Ser Norman Stormstrife]] and I thought it best if the two of you would team up and travel across the land to aid in any hardships that come to the common people, to help the realm. Find a party that will have your back on the road, hire a wizard and one of the gods blessed. Wizard for utility and the other for healing help. There is no loss of honor in traveling with help it allows you to do good.”
 
 Emmeline hears shout from behind - prince Rowan leaves the pavilion and rides off on his horse towards the joust.
 
@@ -158,7 +158,7 @@ Edmund “go and find a party - after the tourney there will be a need for you o
 
   
 
-Fly a short distance over the tourney grounds to a line of booths looking at the events. Zoom in on a tall-ish human - Tall Gnorman
+Fly a short distance over the tourney grounds to a line of booths looking at the events. Zoom in on a tall-ish human - [[Tall Gnorman]]
 
 Skinny and average height - long greasy black hair, dark shifty eyes.
 
@@ -190,15 +190,15 @@ They walk up to Mac who is standing next to Moss & Ayana to watch Rowan vs Celet
 
   
 
-20 Insight check from me
+**20 Insight check** from [[Ayana]]
 
 Mac - is just having a good time
 
-Gnorman - this is the closest he’s been to the prince, super handsome (looks like Henry Cavill)
+Gnorman - this is the closest he’s been to [[Prince Rowan]], super handsome (looks like Henry Cavill)
 
 Emmeline - same realization, this is the guy you’ve been hearing about - this is C
 
-Ayana - nat 20 gives me insight in only a way that is matched in emmeline’s deep comfortability with her cousin, struck with a sense that i know this man, this is the guy i’ve been hearing about, i don’t see celethorn very often but we’ve spent 2 weeks on the road bonding and picking his brain, he’s been cryptic about his love life. Celethorn is an important elf, playing cards close to his chest. I see on Rowan's face familiarity, comfortability, ease and joy, i’m one of the only people that knows who celethorn really is.
+Ayana - nat 20 gives me insight in only a way that is matched in emmeline’s deep comfortability with her cousin, struck with a sense that i know this man, this is the guy i’ve been hearing about, i don’t see [[Celethorn]] very often but we’ve spent 2 weeks on the road bonding and picking his brain, he’s been cryptic about his love life. Celethorn is an important elf, playing cards close to his chest. I see on Rowan's face familiarity, comfortability, ease and joy, i’m one of the only people that knows who celethorn really is.
 
 Hush comes over the crowd
 

@@ -22,6 +22,9 @@ tags:
 
 # Notes
 
+- not many people believe that they still exist
+- no known precedent for goblin attacks
+- only heard about in fairy tales anymore
 
 
 
@@ -29,4 +32,4 @@ tags:
 
 
 
-[[index2|Home]]
+[[content/index|Home]]

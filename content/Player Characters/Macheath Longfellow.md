@@ -20,7 +20,8 @@ tags:
 
 
 > [!note]- Relationships with other PCs
-> Contents
+> [[Emmeline Windgale]]
+> - their knights are good friends so they have been awkwardly sat at many a campfire together
 
 
 # Notes
@@ -35,8 +36,9 @@ tags:
 
 ## Major Events
 
-- gets knighted by [[Ser Norman Stormstrife]] as he's dying at the beginninf os [[Session 001]]
+- gets knighted by [[Ser Norman Stormstrife]] as he's dying at the beginning of [[Session 001]]
+	- [[Ser Edmund]] calls him Ser Macheath after their rings turn blue when they greet eachother
 
 
 
-[[index2|Home]]
+[[content/index|Home]]

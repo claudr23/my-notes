@@ -53,4 +53,4 @@ One room
 
 
 
-[[index2|Home]]
+[[content/index|Home]]

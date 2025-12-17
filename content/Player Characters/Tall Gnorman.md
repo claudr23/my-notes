@@ -14,19 +14,21 @@ tags:
 
 
 > [!example]- Connected NPCs
-> Name
-> - relationship
+> Boss's name
+> - Gnorman's boss at [[The Arcanade]]
 
 
 
 > [!note]- Relationships with other PCs
-> Contents
+> [[Emmeline Windgale]]
+> - she has prevented Gnorman from falling down [[The Arcanade]] stairs
 
 
 # Notes
 
+- skinny and average height
+- long greasy black hair, dark shifty eyes
 
 
 
-
-[[index2|Home]]
+[[content/index|Home]]

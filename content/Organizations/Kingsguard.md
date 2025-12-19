@@ -1,14 +1,16 @@
 ---
-name: <% tp.file.title %>
+name: Kingsguard
 aliases:
 pronounced:
-type:
-description:
+type: organization
+description: elite guards assigned to the royal family
 leaders:
 headquarters:
 location:
+  - "[[Crestin]]"
 worship:
 parent orgs:
+  - "[[The Kindgom of Hollisen]]"
 child orgs:
 alliances:
 tags:
@@ -16,7 +18,6 @@ tags:
   - religion
   - political-group
   - guild
-  - kingdom
 ---
 (insert table here)
 

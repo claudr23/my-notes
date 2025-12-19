@@ -39,7 +39,7 @@ tags:
 - Raised in the castle to become a [[content/Organizations/Kingsguard]]
 
 - sent out into the world by [[Ser Edmund]] to earn the honor of a Damehood
-	- Edmund has been talking with [[Ser Norman Stormstrife]] about sending Emmeline and [[Macheath Longfellow]] out together 
+	- Edmund has been talking with [[Ser Norman]] about sending Emmeline and [[Macheath Longfellow]] out together 
 
 
 

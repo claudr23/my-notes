@@ -1,21 +1,22 @@
 ---
-name: <% tp.file.title %>
+name: Kingdom of Hollisen
 aliases:
 pronounced:
-type:
+type: kingdom
 description:
 leaders:
-headquarters:
+  - "[[King Volth]]"
+headquarters: "[[Castle Hollis]]"
 location:
+  - "[[Crestin]]"
 worship:
 parent orgs:
 child orgs:
+  - "[[Kingsguard]]"
 alliances:
 tags:
   - organization
-  - religion
   - political-group
-  - guild
   - kingdom
 ---
 (insert table here)

@@ -1,8 +1,9 @@
 ---
-name: Ser Norman Stormstrife
+name: Ser Norman
 aliases:
-  - Sir Norman
   - Norman
+  - Ser Norman Stormstrife
+  - Sir Norman
 pronounced:
 description:
 gender: male

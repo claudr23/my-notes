@@ -14,7 +14,7 @@ tags:
 
 
 > [!example]- Connected NPCs
-> [[Ser Norman Stormstrife]]
+> [[Ser Norman]] Stormstrife 
 > - mentor
 
 
@@ -36,7 +36,7 @@ tags:
 
 ## Major Events
 
-- gets knighted by [[Ser Norman Stormstrife]] as he's dying at the beginning of [[Session 001]]
+- gets knighted by [[Ser Norman]] as he's dying at the beginning of [[Session 001]]
 	- [[Ser Edmund]] calls him Ser Macheath after their rings turn blue when they greet eachother
 
 

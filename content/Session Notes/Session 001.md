@@ -1,7 +1,7 @@
 ---
 title: Session 001
 date: Oct 06, 2024
-summary:
+summary: party goes to the millennium tourney where [[Prince Rowan]] falls ill and [[Celethorn]] is arrested
 ---
 
 
@@ -22,7 +22,7 @@ summary:
 
 
 # Session Notes
-[[Macheath Longfellow]] is traveling with [[Ser Norman Stormstrife]]'s retinue and is looking for provisions alone in the woods. Near the Haffles
+[[Macheath Longfellow]] is traveling with [[Ser Norman]]'s retinue and is looking for provisions alone in the woods. Near the Haffles
 
 There is a fire at the camp and Mac fights with [[Goblins]] and a [[Bugbear]], they are killing Ser Norman
 
@@ -146,7 +146,7 @@ Mac tells him of what happened - not a lot of people believe that [[Goblins]] ex
 
 To Emmeline - this sounds like a made up story but Edmund is accepting it as truth
 
-Edmund “there have been strange stories coming out of the Haffles of late . . . seems that with the mark of the millennium, the kingdom is in for an age of hardship it hasn’t seen since it’s founding. . . [[Ser Norman Stormstrife]] and I thought it best if the two of you would team up and travel across the land to aid in any hardships that come to the common people, to help the realm. Find a party that will have your back on the road, hire a wizard and one of the gods blessed. Wizard for utility and the other for healing help. There is no loss of honor in traveling with help it allows you to do good.”
+Edmund “there have been strange stories coming out of the Haffles of late . . . seems that with the mark of the millennium, the kingdom is in for an age of hardship it hasn’t seen since it’s founding. . . [[Ser Norman]] and I thought it best if the two of you would team up and travel across the land to aid in any hardships that come to the common people, to help the realm. Find a party that will have your back on the road, hire a wizard and one of the gods blessed. Wizard for utility and the other for healing help. There is no loss of honor in traveling with help it allows you to do good.”
 
 Emmeline hears shout from behind - prince Rowan leaves the pavilion and rides off on his horse towards the joust.
 
@@ -216,11 +216,11 @@ Emmeline charges forward towards the prince, gets there the same time as the med
 
 The medic is flustered and I rush forward
 
-I try to pull the javelin out but only 10 sleight of hand check DC was 20 
+I try to pull the javelin out but only **10 sleight of hand check** DC was 20 
 
 Archbishop goes forward to heal the prince - he sits up and looks dazed but stands on his own
 
-Rowan brushes off his mom and kingsguard - Rowan walks up to shake his hand and they raise their hands up in show of good sportsmanship
+Rowan brushes off his mom and [[Kingsguard]] - Rowan walks up to shake his hand and they raise their hands up in show of good sportsmanship
 
 Rowan walks up to Emmeline and thanks her and Ayana
 
@@ -236,16 +236,25 @@ A reaches out and expend all 5 Lay on hands HP to neutralize a poison
 
 Prince Rowan’s breathing steadies
 
-Still breathing hard, grabs his hears - eyes bulge out and he collapses
+Still breathing hard, grabs his heart - eyes bulge out and he collapses
 
 Ayana casts divine sense, the prince is fine - weak fey energy coming from Moss and trace fey from all elves 
 
-Queen accuses Celethorn and he looks unknowing and shocked, even more worried, she commands the kingsguard to arrest Celethorn**
+Queen accuses [[Celethorn]] and he looks unknowing and shocked, even more worried, she commands the kingsguard to arrest Celethorn
 
 
 
 > [!example]+ NPCs This Session
-> - 
+> - [[Ser Norman]]
+> - [[Ser Edmund]]
+> - [[Colum Agus]]
+> - [[Shonag Agus]]
+> - [[Remus Arden]]
+> - [[Celethorn]]
+> - [[Geoffrey]]
+> - [[King Volth]]
+> - [[Prince Rowan]]
+> - [[Queen Thalia]]
 
 
 
@@ -253,7 +262,10 @@ Queen accuses Celethorn and he looks unknowing and shocked, even more worried, s
 ---
 
 > [!summary]- Summary
-> -
+> - everyone heads to [[Crestin]] for the Millennium Tourney
+> - [[Emmeline Windgale]] and [[Macheath Longfellow]] are tasked with forming a party to help the kingdom after the tourney 
+> - [[Prince Rowan]] falls unconscious after losing a joust with [[Celethorn]]
+> - Celethorn is arrested
 
 
 

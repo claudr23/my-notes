@@ -60,7 +60,7 @@ As he puts the box down I casually put the quill in his breast pocket 22 intimid
 
 I continue on to the Smithy - the day has truly started now. Make it to the Artisan’s section of town. Sign that says “[[Agus, Arden, & Arms]]” outside the Smithy. I put the cart down and there is a commotion.
 
-Procession of riders - they are elvish. From the Vardominal Confederation. My Uncle, [[Celethorn]], bright shining silver hair, scale mail armour, elven longsword, atop his white and gold horse.
+Procession of riders - they are elvish. From the [[Vardominal Confederation]]. My Uncle, [[Celethorn]], bright shining silver hair, scale mail armour, elven longsword, atop his white and gold horse.
 
 [[Colum Agus]], [[Remus Arden]], and [[Shonag Agus]] come out to greet him and we all head inside the smithy.
 
@@ -102,7 +102,7 @@ City of [[Crestin]] - can see the waves in the distance
 Throne of the family Hollis - [[King Volth]] “The Good King”
 
 ### Ask Jesse about the name of the religion
-Church of Pelor, god of the sun, prime deity of humans, Cathedral of the Sun is here, alongside [[content/Hollisen/Crestin/Castle Hollis]]
+Church of Pelor, god of the sun, prime deity of humans, Cathedral of the Sun is here, alongside [[Castle Hollis]]
 
 Third major part of the city, tall spires, Wizarding School of [[The Arcanade]]
 

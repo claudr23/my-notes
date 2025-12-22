@@ -26,6 +26,7 @@ tags:
 
 # Notes
 
+- traveled with the circus since she was young
 - been in hiding for a couple years at the start of the campaign
 - was an outsider in her childhood 
 

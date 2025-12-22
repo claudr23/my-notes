@@ -40,11 +40,13 @@ tags:
 
 
 # Overview
-
+Human capital
+Home to the only wizard school: [[The Arcanade]]
+Seat of Hollisen
 
 
 ## Current Events
-
+Millennium Tourney
 
 
 ## History 

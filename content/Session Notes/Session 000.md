@@ -68,7 +68,7 @@ Qiz
 - Eastern lands - mostly uninhabited except for those that can defend themselves, lots of raiders. Goblins and Hyena people are here as well as Orcs
 	- Orcs met dragonborn in the rising woods, entire clan was wiped out by a red dragon long ago. They defeated it and the dragonborn awoke for the first time. Made a pact to get rid of the Dragon Masters and they did!
 - Rising Woods - no town there, not Princess Booby times
-- Home of Halflings - Hillock and Haffles, Bleeders, Gosmers (more swampy), Teggend
+- Home of Halflings - [[Hillock]] and Haffles, Bleeders, Gosmers (more swampy), Teggend
 
 Pelegos Islands
 - Temperate rainforest, lots of rain from the crystal sea

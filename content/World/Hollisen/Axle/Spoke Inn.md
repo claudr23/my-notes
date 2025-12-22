@@ -2,7 +2,7 @@
 name: Spoke Inn
 aliases:
 pronounced:
-type: inn
+type: inn, tavern
 leaders:
   - gnome and halfling
 description:
@@ -12,7 +12,13 @@ tags:
   - tavern
   - inn
 ---
-(insert table here)
+
+|              | Spoke Inn          |
+| ------------ | ------------------ |
+| Description  |                    |
+| Type         | inn, tavern        |
+| Leader/Owner | gnome and halfling |
+| Settlement   | [[Axle]]           |
 
 
 > [!example]- Organizations

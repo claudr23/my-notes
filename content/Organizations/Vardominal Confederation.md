@@ -1,23 +1,20 @@
 ---
-name: Kingsguard
+name: Vardominal Confederation
 aliases:
-pronounced:
-type: organization
-description: elite guards assigned to the royal family
+pronounced: var-dom-in-uhl
+type: government
+description:
 leaders:
 headquarters:
 location:
-  - "[[Crestin]]"
+  - "[[Eledor]]"
 worship:
 parent orgs:
-  - "[[Kingdom of Hollisen]]"
 child orgs:
 alliances:
 tags:
   - organization
-  - religion
   - political-group
-  - guild
 ---
 (insert table here)
 

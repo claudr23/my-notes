@@ -12,7 +12,6 @@ species:
   - human
 class: fighter
 location:
-  - "[[NPCs]]"
   - "[[Crestin]]"
 friendly: friendly
 occupation: knight
@@ -24,6 +23,7 @@ tags:
   - character
 ---
 (insert table here)
+**Need to ask Ali for photo or description 
 
 
 # Notes

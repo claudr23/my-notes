@@ -7,7 +7,7 @@ terrain:
 rulers:
   - King Volth
 leaders:
-dominion:
+dominion: "[[Kingdom of Hollisen]]"
 government: kingdom
 population:
 species:
@@ -64,7 +64,9 @@ tags:
 
 
 # Overview
-
+closest to metropolitan
+predominantly humans
+is a kingdom, like England
 
 
 ## Current Events

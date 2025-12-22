@@ -12,7 +12,8 @@ pass_percep:
 organizations:
 magical: false
 location:
-  - Haffles
+  - "[[content/World/Hollisen/Haffles]]"
+  - "[[content/World/Hollisen/Eastern Lands]]"
 tags:
   - character
   - creature

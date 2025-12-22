@@ -9,7 +9,7 @@
 | age               | <%tp.frontmatter.age%>                                                           |
 | Species           | <%tp.frontmatter.species%>                                                       |
 | Class             | <%tp.frontmatter.class%>                                                         |
-| Location          | [[<%tp.file.folder()%>]]                                                         |
+| Location          | <%tp.frontmatter.location%>                                                      |
 | Friendly to party | <%tp.frontmatter.friendly%>                                                      |
 | occupation        | <%tp.frontmatter.occupation%>                                                    |
 | languages         | <%tp.frontmatter.languages%>                                                     |

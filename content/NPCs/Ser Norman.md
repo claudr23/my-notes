@@ -13,7 +13,6 @@ species:
   - human
 class: fighter
 location:
-  - "[[NPCs]]"
   - Haffles
 friendly: friendly
 occupation: knight
@@ -25,7 +24,7 @@ tags:
   - character
 ---
 (insert table here)
-
+**Need to ask Ryan for photo or description
 
 # Notes
 

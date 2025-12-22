@@ -2,13 +2,13 @@
 name: Geoffrey
 aliases:
 pronounced:
-description:
+description: human worker, dressed nicely
 gender: male
 pronouns: he/him
-age:
+age: unknown
 species:
   - human
-class:
+class: none
 location:
   - "[[White Branch]]"
   - "[[Shining Oddities]]"
@@ -21,11 +21,26 @@ tags:
   - npc
   - character
 ---
-(insert table here)
+
+|                   | Geoffrey                              |
+| ----------------- | ------------------------------------- |
+| Description       | human worker, dressed nicely          |
+| Gender            | male                                  |
+| pronouns          | he/him                                |
+| age               | unknown                               |
+| Species           | human                                 |
+| Class             | none                                  |
+| Location          | [[White Branch]],[[Shining Oddities]] |
+| Friendly to party | neutral                               |
+| occupation        | shop boy                              |
+| languages         | common                                |
 
 
 # Notes
-
+[[Session 001]]
+- Human worker at [[Shining Oddities]]
+- [[Ayana]] has known him since her childhood
+	- he gets freaked out by her during her visit
 
 
 

@@ -17,7 +17,7 @@ tags:
   - political-group
 ---
 (insert table here)
-
+**Need to talk with Jesse, this might be totally different now**
 
 >[!NOTE]- Geography
 >

@@ -6,14 +6,14 @@ pronounced: ree-mus
 description:
 gender: male
 pronouns: he/him
-age:
+age: "22"
 species:
   - human
 class:
 location:
   - "[[White Branch]]"
 friendly: friendly
-occupation:
+occupation: smith's apprentice
 languages:
   - common
 condition: healthy

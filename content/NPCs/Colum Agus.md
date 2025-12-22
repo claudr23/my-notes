@@ -11,7 +11,6 @@ species:
   - dwarf
 class:
 location:
-  - "[[NPCs]]"
   - "[[White Branch]]"
 friendly: friendly
 occupation: blacksmith
@@ -24,7 +23,7 @@ tags:
   - character
 ---
 (insert table here)
-
+**talk to Jesse about getting pogs he used, shared drive for photos only?**
 
 # Notes
 

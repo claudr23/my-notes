@@ -21,7 +21,7 @@ tags:
   - character
 ---
 (insert table here)
-
+**Need to talk details with Jesse**
 
 # Notes
 

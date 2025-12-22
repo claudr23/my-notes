@@ -16,12 +16,12 @@ tags:
 
 ![[Pasted image 20251124144003.png|200]]
 
-|                       | Agus, Arden, & Arms - *null* <br>"white branch smithy" |
-| --------------------- | ------------------------------------------------------------------------------------ |
-| Description           | smithy with the Agus/Arden household attached                                                       |
-| Type                  | shop                                                              |
-| Leader/Owner          | [[Colum Agus]]                                                           |
-| Settlement            | [[White Branch]]                                                        |
+|              | Agus, Arden, & Arms - <br>"White Branch Smithy" |
+| ------------ | ----------------------------------------------- |
+| Description  | smithy with the Agus/Arden household attached   |
+| Type         | shop                                            |
+| Leader/Owner | [[Colum Agus]]                                  |
+| Settlement   | [[White Branch]]                                |
 
 
 

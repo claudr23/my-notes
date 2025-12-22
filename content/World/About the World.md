@@ -1,7 +1,7 @@
 # Map
 We need an updated photo, Mr. The DM
 
-![[Pasted image 20251121163204.png|Map of Hollisen]]
+![[Pasted image 20251121163204.png|500]]
 
 
 # Preliminary Knowledge

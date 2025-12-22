@@ -4,6 +4,7 @@ aliases:
 player: Claudia
 level:
 pass_percep:
+age: "23"
 tags:
   - character
   - player

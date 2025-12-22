@@ -6,7 +6,7 @@ pronounced: show-nag
 description:
 gender: female
 pronouns: she/her
-age:
+age: "25"
 species:
   - dwarf
 class:

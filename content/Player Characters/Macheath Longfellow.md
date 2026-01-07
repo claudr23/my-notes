@@ -22,6 +22,13 @@ tags:
 > [!note]- Relationships with other PCs
 > [[Emmeline Windgale]]
 > - their knights are good friends so they have been awkwardly sat at many a campfire together
+> 
+> [[Ayana]]
+> - know each other from several tournaments in [[White Branch]]
+> 
+> [[Moss]]
+> - meet for the first time at the [[Spoke Inn]] during [[Session 001]]
+> - he stops a drunkard from stealing her money
 
 
 # Notes

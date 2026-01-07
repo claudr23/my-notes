@@ -1,10 +1,12 @@
 ---
-name: <% tp.file.title %>
+name: Bahamut
 aliases:
 pronounced:
-description:
-alignment:
+description: Platinum Dragon, God of Justice
+alignment: lawful good
 domain:
+  - life
+  - war
 location:
 organizations:
 devotion:
@@ -17,7 +19,8 @@ tags:
 
 # Overview
 
-
+loathes any evil act
+takes human form to give wisdom to good hearted
 
 ## History
 

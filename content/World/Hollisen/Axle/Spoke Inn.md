@@ -38,6 +38,7 @@ tags:
 
 - most famous inn in the area
 - known for comfort and amenities
+- near the night market?
 
 One room
 - 5 sp at beginning of campaign for [[Ayana]] and [[Colum Agus]]

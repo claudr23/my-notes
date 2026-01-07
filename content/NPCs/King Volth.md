@@ -3,6 +3,7 @@ name: King Volth
 aliases:
   - Volth
   - The King
+  - The Good King
 pronounced:
 description:
 gender: male
@@ -13,7 +14,7 @@ species:
 class:
 location:
   - "[[Crestin]]"
-friendly:
+friendly: neutral
 occupation: royalty
 languages:
   - common

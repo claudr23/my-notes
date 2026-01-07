@@ -1,7 +1,7 @@
 ---
 title: Session 001
 date: Oct 06, 2024
-summary: party goes to the millennium tourney where [[Prince Rowan]] falls ill and [[Celethorn]] is arrested
+summary: party goes to the millennium tourney where Prince Rowan falls ill and Celethorn is arrested
 ---
 
 
@@ -77,7 +77,7 @@ Just Me and Colum going with Celethorn.
 
 Mac is there and stops the drunkard - (do they know each other beforehand?I don’t think so)
 
-They have a drink together - Gnome and Halfling owners that sit on each other's shoulders to serve customers
+They have a drink together - Gnome and Halfling owners (did Jesse give them names?) that sit on each other's shoulders to serve customers
 
 Moss sees a procession of elves walking by outside
 

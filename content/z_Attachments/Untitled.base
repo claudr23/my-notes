@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "content/Session Notes"
+    order:
+      - file.name
+      - date
+      - summary
+    sort:
+      - property: file.name
+        direction: DESC
+    limit: 5
+    columnSize:
+      file.name: 117
+      note.date: 128
